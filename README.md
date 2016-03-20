@@ -1,9 +1,9 @@
 # Debian dotdeb.org image
 
 ## Available tags
-* jessie - in branch jessie
-* wheezy - in branch wheezy
-* squeeze - in branch squeeze
+* jessie
+* wheezy
 
 ## Installed Packages
 * wget
+* ca-certificates (only in wheezy)
